@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">👋 Hello! I'm Denys Hrytsai</h1>
 
-<!--
-**DenysHrytsai/DenysHrytsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Science student at <b>Opole University of Technology</b><br/>
+  Full-Stack Developer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://instagram.com/hrytsai_denys/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align: middle; margin-right: 5px;"/>
+  </a>
+  <a href="https://t.me/DenHrt">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="vertical-align: middle; margin-right: 5px;"/>
+  </a>
+  <a href="mailto:ppanda3553@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle; margin-right: 5px;"/>
+  </a>
+  <a href="https://discordapp.com/users/denyshrytsai">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="vertical-align: middle; margin-right: 5px;"/>
+  </a>
+  <a href="https://github.com/DenysHrytsai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="vertical-align: middle;"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Open to learning, building projects and new opportunities
+</p>
